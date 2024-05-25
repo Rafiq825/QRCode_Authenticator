@@ -23,5 +23,5 @@ This project is a QR Code Authenticator built with Node.js and Express. Users ca
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/qrcode-authenticator.git
-   cd qrcode-authenticator
+   git clone https://github.com/Rafiq825/QRCode_Authenticator.git
+ 
